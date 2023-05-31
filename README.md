@@ -1,5 +1,5 @@
 # jope-zone
 
-** WIP ** 
+**WIP** 
 
-A personal website.
+A personal website to host portfolio and projects.
