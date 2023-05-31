@@ -1,7 +1,11 @@
 function App() {
   return (
     <>
-      <p className="text-3xl font-bold underline">Hi!</p>
+      <div className="relative">
+        <div className="flex flex-wrap items-center">
+          <p className="font-mono font-bold italic">Jope Zone</p>
+        </div>
+      </div>
     </>
   );
 }
