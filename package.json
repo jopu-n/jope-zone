@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jopu-n.github.io/jope-zone/",
+  "homepage": "https://www.jope.zone",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
